@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>SVAST Pharmaceuticals — Products</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <style>
+    body{font-family:"Times New Roman",serif;margin:20px;color:#111}
+    header{display:flex;gap:16px;align-items:center;flex-wrap:wrap}
+    .logo img{max-height:90px}
+    .brand h1{margin:0;color:#D32F2F;font-size:30px}
+    .brand h2{margin:0;font-size:14px}
+    .contact{margin-left:auto;font-size:13px;text-align:right}
+    main{margin-top:18px}
+    h2.section-title{margin-bottom:8px}
+    ul.products{columns:2;-webkit-columns:2;-moz-columns:2;list-style:disc;margin-left:1.2em}
+    ul.products li{margin-bottom:6px;font-size:14px}
+    footer{margin-top:20px;color:#666;font-size:13px}
+    @media(max-width:700px){
+      ul.products{columns:1}
+      header{flex-direction:column;align-items:flex-start}
+      .contact{text-align:left;margin-left:0}
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="logo"><img src="A_logo_for_SVAST_PHARMACEUTICALS_is_featured_in_th.png" alt="SVAST logo"></div>
+    <div class="brand">
+      <h1>SVAST</h1>
+      <h2>PHARMACEUTICALS</h2>
+    </div>
+    <div class="contact">
+      <div><strong>Address</strong><br>1A, Vaikunta Perumal Kovil Street,<br>Kanchipuram-631502, Tamil Nadu, India</div>
+      <div style="margin-top:6px;"><strong>Phone:</strong> +91 86082 89495</div>
+      <div><strong>Email:</strong> dr.vhospitals@gmail.com</div>
+    </div>
+  </header>
+
+  <main>
+    <h2 class="section-title">Products (full list)</h2>
+
+    <ul class="products">
+      <li>AMIKASIN 500MG</li>
+      <li>BUSCOPAN INJ</li>
+      <li>DEXA INJ</li>
+      <li>DICLOFENAC INJ</li>
+      <li>D3 INJ</li>
+      <li>METHY INJ</li>
+      <li>PARA INJ</li>
+      <li>PAN INJ</li>
+      <li>TRAMADOL INJ</li>
+      <li>STAMETIL INJ</li>
+      <li>VOMIKIND INJ</li>
+      <li>DISPO 2 ML</li>
+      <li>DISPO 5 ML</li>
+      <li>DISPO 10 ML</li>
+      <li>AVIL INJ</li>
+      <li>DERIPHILIN</li>
+      <li>TT INJ</li>
+      <li>THIMINE</li>
+      <li>FRUSIMIDE INJ</li>
+      <li>DROTIN INJ</li>
+      <li>DICYCLOMINE</li>
+      <li>LIGNOCAINE INJ</li>
+      <li>CAL SYP</li>
+      <li>CEFI SYP</li>
+      <li>IBUVON SYP</li>
+      <li>IRON SYP</li>
+      <li>SUCRAFRED SYP</li>
+      <li>ALKA SYP</li>
+      <li>AMBROX SYP</li>
+      <li>DIAVOL SYP</li>
+      <li>MVT SYP</li>
+      <li>PARA SYP</li>
+      <li>DULCOLEX</li>
+      <li>AMOXCILLIN</li>
+      <li>VOMIKIND</li>
+      <li>CITRICINE</li>
+      <li>BIFILAC SYP</li>
+      <li>DM SYP</li>
+      <li>ALPROX0.5</li>
+      <li>ALBENDASOLE</li>
+      <li>AMLONG.05MG</li>
+      <li>AMITRYPLINE</li>
+      <li>ATORVASTION 10MG</li>
+      <li>AZHITHRO</li>
+      <li>APC TAB</li>
+      <li>AB PHYLLINE</li>
+      <li>AMOXYCILLIN</li>
+      <li>BIFELAC</li>
+      <li>CINNARICINE</li>
+      <li>CEFI 200MG TAB</li>
+      <li>CLINDAMYCIN</li>
+      <li>CITRICINE</li>
+      <li>CAL TAB</li>
+      <li>CLOP A</li>
+      <li>DOLO 650</li>
+      <li>DOLO 500MG</li>
+      <li>EVION LC</li>
+      <li>EDUCT</li>
+      <li>FRUSIMIDE 40MG</li>
+      <li>GABA TAB</li>
+      <li>IBU PRUFAN TAB</li>
+      <li>KTRIP TAB</li>
+      <li>METRO TAB</li>
+      <li>METFORMIN TAB</li>
+      <li>MEDROL</li>
+      <li>MONT LC TAB</li>
+      <li>MVT TAB</li>
+      <li>LINOSOLID 600 MG</li>
+      <li>OFLOXIN OZ</li>
+      <li>PIROX DT</li>
+      <li>SPAS</li>
+      <li>RABEPROZOLE</li>
+      <li>PAN 20</li>
+      <li>TENDOFIT</li>
+      <li>TELMA H</li>
+      <li>URIFON TAB</li>
+      <li>VERTIN 16 TAB</li>
+      <li>DOROTAVARIN 40 MG</li>
+      <li>GLIMIDE MF 1</li>
+      <li>GLIMIDE MF 2</li>
+      <li>ATROVASTIN 40 MG</li>
+      <li>DOXY</li>
+      <li>VOMIKIND TAB</li>
+      <li>ULTRAMED TAB</li>
+      <li>VITAMIN C</li>
+      <li>FLUNARICINE</li>
+      <li>DULCOLEX</li>
+      <li>FLUCONAZOLE</li>
+      <li>CIPRO</li>
+      <li>ZOLCALM 10 MG</li>
+      <li>SVASVT GEL</li>
+      <li>POVIDINE OINTMENT</li>
+      <li>ASHTHALINE</li>
+      <li>BUDECADE</li>
+      <li>PARA INFUSION</li>
+      <li>METRO IV</li>
+      <li>CIPRO IV</li>
+      <li>MANNITOL IV</li>
+      <li>NS 100ML</li>
+      <li>D 25 100ML</li>
+      <li>NS 500ML</li>
+      <li>RL 500ML</li>
+      <li>DNS 500ML</li>
+      <li>SCALP VEIN</li>
+      <li>VENFLON YELLOW</li>
+      <li>VENFLON BLUE</li>
+      <li>VENFLO GREEN</li>
+      <li>VENFLON PINK</li>
+      <li>IV SET</li>
+      <li>EASYFIX</li>
+      <li>ROLLER 10 CM</li>
+      <li>ROLLER 15 CM</li>
+      <li>CREP BANDAGE 10 CM</li>
+      <li>CREP BANADAGE 15 CM</li>
+      <li>CREPE BANDAGE 6 CM</li>
+      <li>CREPE BANDAGE 8 AM</li>
+      <li>ORHTO BANDAGE 10 CM</li>
+      <li>ORHTO BANDAGE 15 CM</li>
+      <li>POP 10 CM</li>
+      <li>POP 15 CM</li>
+      <li>COLLEGEN POWDER</li>
+      <li>REVLIS ONITMENT</li>
+      <li>SURGICARE GLOVE 7</li>
+      <li>SURGICARE GLOVES 7.5</li>
+      <li>LS BELT</li>
+      <li>KNEE CAP</li>
+    </ul>
+
+  </main>
+
+  <footer>
+    <div>SVAST Pharmaceuticals — Product list (static). If you want categories, I can upload a categorized version next.</div>
+  </footer>
+</body>
+</html>
